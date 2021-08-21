@@ -1,2 +1,2 @@
 # selenium01
-Beginner's selenium project
+Beginner's selenium projects
